@@ -1,0 +1,40 @@
+body{
+	font-size: 20px;
+	font-family: sans-serif;
+	color:black;
+    
+}
+.question{
+	font-weight: 600;
+    text-indent: 15px;
+
+  
+}
+.answers {
+  margin-bottom: 20px;
+  text-indent: 15px;
+}
+.answers label{
+  display: block;
+}
+#submit{
+	font-family: sans-serif;
+	font-size: 20px;
+	background-color:cornflowerblue;
+	color: #fff;
+	border: 0px;
+	border-radius: 3px;
+	padding: 20px;
+	cursor: pointer;
+	margin-bottom: 20px;
+  margin-left: 50px;
+  
+}
+#submit:hover{
+	background-color:rgb(14, 14, 190);
+}
+h1{
+  text-align: center;
+  color:white;
+  background-color:rgb(13, 13, 131);
+}
